@@ -9,6 +9,8 @@
 [![Java Script](https://shields.io/badge/-Java_Script-F7DF1E?logo=javascript&style=for-the-badge&logoColor=222)](https://learn.javascript.ru/)
 [![React](https://shields.io/badge/-React-282c34?logo=react&style=for-the-badge)](https://reactjs.org/)
 
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=arturke&show_icons=true&theme=gotham" alt="Artur Kozlov" />
+
 <!--
 **ArturKe/arturke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
