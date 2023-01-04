@@ -1,7 +1,7 @@
-### Привет всем 👋
+### Hi Everyone 👋
 
-- 🌱 В процессе изучения VUE JS, React JS, Node JS, Three JS
-- 👯 Ищу интересные проекты, рад сотрудничеству
+- 🌱 Learning VUE JS, React JS, Node JS, Three JS
+- 👯 Glad to meet new friends)
 
 ### Стэк технологий который я использую
 [![Git](https://shields.io/badge/-Git-f0efe7?logo=git&style=for-the-badge)](https://git-scm.com/)
