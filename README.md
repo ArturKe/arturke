@@ -1,6 +1,6 @@
 ### Hi Everyone 👋
 
-- 🌱 Learning VUE JS, React JS, Node JS, Three JS
+- 🌱 Learning VueJS, ReactJS, NodeJS, ThreeJS, TypeScript
 - 👯 Glad to meet new friends)
 
 ### Стэк технологий который я использую
