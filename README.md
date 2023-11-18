@@ -1,7 +1,7 @@
 ### Hi Everyone 👋
 
 - 🌱 Learning VueJS, ReactJS, NodeJS, ThreeJS, TypeScript
-- 👯 Glad to meet new friends)
+- 👯 Glad to meet new people)
 
 ### Стэк технологий который я использую
 [![Git](https://shields.io/badge/-Git-f0efe7?logo=git&style=for-the-badge)](https://git-scm.com/)
